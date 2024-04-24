@@ -1,0 +1,10 @@
+/  A  B  B  B  B  B  B  B  B  B  A 
+//  A  B  C  C  C  C  C  C  C  B  A 
+//  A  B  C  D  D  D  D  D  C  B  A 
+//  A  B  C  D  E  E  E  D  C  B  A
+//  A  B  C  D  E  F  E  D  C  B  A 
+//  A  B  C  D  E  E  E  D  C  B  A
+//  A  B  C  D  D  D  D  D  C  B  A
+//  A  B  C  C  C  C  C  C  C  B  A
+//  A  B  B  B  B  B  B  B  B  B  A
+//  A  A  A  A  A  A  A  A  A  A  A
